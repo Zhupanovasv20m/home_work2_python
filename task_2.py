@@ -11,8 +11,8 @@ denominator_one = int(first_str[1])
 numerator_two = int(second_str[0])
 denominator_two = int(second_str[1])
 
-sum = (numerator_one/denominator_one) + (numerator_two/denominator_two)
-print(sum)
+sum_of_num = (numerator_one/denominator_one) + (numerator_two/denominator_two)
+print(sum_of_num)
 
 res = (numerator_one/denominator_one) * (numerator_two/denominator_two)
 print(res)
